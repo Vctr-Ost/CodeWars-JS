@@ -1,3 +1,3 @@
 # CodeWars-JS
 
-CW problems
+Code W problems
