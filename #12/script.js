@@ -26,3 +26,11 @@ function cleanedCounts(data) {
   })
   return res;
 }
+
+
+
+
+function cleanedCounts(data) {
+  let n = 0;
+  return data.map(i => n = Math.max(i, n));
+}
