@@ -14,6 +14,9 @@ The array will never be empty.
 */
 
 
+
+// 1 Solution
+
 function cleanedCounts(data) {
   let res = [];
   res.push(data[0]);
@@ -29,8 +32,9 @@ function cleanedCounts(data) {
 
 
 
+// 2 Solution
 
-function cleanedCounts(data) {
+function cleanedCounts2(data) {
   let n = 0;
   return data.map(i => n = Math.max(i, n));
 }
