@@ -34,7 +34,7 @@ function cleanedCounts(data) {
 
 // 2 Solution
 
-function cleanedCounts2(data) {
+function cleanedCounts(data) {
   let n = 0;
   return data.map(i => n = Math.max(i, n));
 }
