@@ -1,3 +1,3 @@
 # CodeWars-JS
 
-Code Wars ефілф
+Code Wars task
