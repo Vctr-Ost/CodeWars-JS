@@ -1,3 +1,3 @@
 # CodeWars-JS
 
-Code Wars оіtasks
+Code Wars jstasks
